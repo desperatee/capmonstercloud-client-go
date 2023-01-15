@@ -9,8 +9,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/ZennoLab/capmonstercloud-client-go/pkg/client"
-	"github.com/ZennoLab/capmonstercloud-client-go/pkg/tasks"
+	"github.com/desperatee/capmonstercloud-client-go/pkg/client"
+	"github.com/desperatee/capmonstercloud-client-go/pkg/tasks"
 )
 
 func main() {
